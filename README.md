@@ -7,7 +7,7 @@ i'm relatively new at coding, having started in my junior year of high school.
 1. Javascript
 1. HTML
 1. CSS
-1. Español
+1. Español (lol)
 
 ### other stuff i know 🤓
 
