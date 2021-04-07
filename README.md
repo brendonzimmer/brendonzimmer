@@ -20,13 +20,14 @@ i'm relatively new at coding, having started in my junior year of high school.
 
 ### i'm currently learning more about ✏️
 
-1. Vue
+1. Vue && Vuex
 1. React && Next.js
 1. GitHub
 
 ### i'm eying 👀
 
 1. Redux
+1. Nuxt
 1. FaunaDB
 1. Solidity
 1. Web3.js
