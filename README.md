@@ -10,26 +10,27 @@ i'm relatively new at coding, having started in my junior year of high school.
 
 ### other stuff i know 🤓
 
-1. Git (duh...)
+1. Git (duh)
 1. React
+1. Next.js
 1. Node.js
 1. Express
 1. MongoDB
 1. Mongoose
 1. TailwindCSS
+1. Vue
 
 ### i'm currently learning more about ✏️
 
-1. Vue && Vuex
-1. React && Next.js
-1. GitHub
+1. React Hooks
+1. CSS && Animations
 
 ### i'm eying 👀
 
+1. FaunaDB
 1. Redux
 1. Nuxt
-1. FaunaDB
 1. Solidity
-1. Web3.js
+1. Web3
 
 **_hope you enjoy your visit_ - brendon**
