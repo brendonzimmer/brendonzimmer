@@ -27,9 +27,10 @@ i'm relatively new at coding, having started in my junior year of high school.
 
 ### i'm eying 👀
 
+1. GraphQL
+1. SQL
 1. FaunaDB
 1. Redux
-1. Nuxt
 1. Solidity
 1. Web3
 
