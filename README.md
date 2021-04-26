@@ -22,14 +22,12 @@ i'm relatively new at coding, having started in my junior year of high school.
 
 ### i'm currently learning more about ✏️
 
-1. React Hooks
 1. CSS && Animations
 
 ### i'm eying 👀
 
 1. GraphQL
 1. SQL
-1. FaunaDB
 1. Redux
 1. Solidity
 1. Web3
