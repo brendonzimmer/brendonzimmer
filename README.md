@@ -22,7 +22,7 @@ i'm relatively new at coding, having started in my junior year of high school.
 
 ### i'm currently learning more about ✏️
 
-1. CSS && Animations
+1. Full Stack Web Apps
 
 ### i'm eying 👀
 
