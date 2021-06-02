@@ -6,11 +6,11 @@ i'm relatively new at coding, having started in my junior year of high school.
 
 1. Javascript && TypeScript
 1. HTML && CSS
-1. Español (lol)
+1. Español
 
 ### other stuff i know 🤓
 
-1. Git (duh)
+1. Git
 1. React
 1. Next.js
 1. Node.js
@@ -22,14 +22,15 @@ i'm relatively new at coding, having started in my junior year of high school.
 
 ### i'm currently learning more about ✏️
 
-1. Full Stack Web Apps
+1. Solidity
+1. SwiftUI
+1. Moralis
 
 ### i'm eying 👀
 
 1. GraphQL
 1. SQL
 1. Redux
-1. Solidity
 1. Web3
 
 **_hope you enjoy your visit_ - brendon**
