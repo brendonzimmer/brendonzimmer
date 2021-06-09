@@ -28,9 +28,9 @@ i'm relatively new at coding, having started in my junior year of high school.
 
 ### i'm eying 👀
 
-1. GraphQL
-1. SQL
-1. Redux
 1. Web3
+1. GraphQL
+1. PostgreSQL
+1. Redux
 
 **_hope you enjoy your visit_ - brendon**
