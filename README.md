@@ -22,12 +22,13 @@ i'm relatively new at coding, having started in my junior year of high school.
 
 ### i'm currently learning more about ✏️
 
-1. Solidity
-1. SwiftUI
-1. Moralis
+1. C++
 
 ### i'm eying 👀
 
+1. Solidity
+1. SwiftUI
+1. Moralis
 1. Web3
 1. GraphQL
 1. PostgreSQL
