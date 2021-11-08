@@ -16,7 +16,6 @@ i'm relatively new at coding, having started in my junior year of high school.
 1. Node.js
 1. Express
 1. MongoDB
-1. Mongoose
 1. TailwindCSS
 1. Vue
 
