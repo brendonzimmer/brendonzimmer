@@ -1,36 +1,49 @@
 # hello there 👋🏼
 
-i'm relatively new at coding, having started in my junior year of high school.
+i'm a student at the university of southern california studying economics, data science, computer science, and blockchain ✌🏼
+
+### wips 💪🏼
+
+1. spotify ⇔ apple music
+1. playlist/music statistics
+1. personal site
+1. usc class scheduler
 
 ### languages i know 🧠
 
-1. Javascript && TypeScript
-1. HTML && CSS
-1. Español
+1. typescript ∧ (typescript ⇒ javascript)
+1. html ∧ css
+1. python 🐍
+1. español 🇪🇸
 
-### other stuff i know 🤓
+### i use a lot 🤓
 
-1. Git
-1. React
-1. Next.js
-1. Node.js
-1. Express
-1. MongoDB
-1. TailwindCSS
-1. Vue
+- git
+- react
+- next.js
+- node.js
+- tailwindcss
 
-### i'm currently learning more about ✏️
+### i'm familiar with 😎
 
-1. C++
+- c++
+- mongodb
+- vue
+- express
 
-### i'm eying 👀
+### i'm currently learning more about 📚
 
-1. Solidity
-1. SwiftUI
-1. Moralis
-1. Web3
-1. GraphQL
-1. PostgreSQL
-1. Redux
+- c++
+- python ∧ dsci
 
-**_hope you enjoy your visit_ - brendon**
+### i'm interested in 👀
+
+- postgresql
+- solidity
+- web3
+- swiftui
+- react native
+- graphql
+- redux
+
+**_enjoy your visit 🤩_**
