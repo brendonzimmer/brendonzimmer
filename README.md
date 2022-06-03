@@ -50,4 +50,4 @@ i'm a student at the university of southern california studying economics, data 
 - graphql
 - redux
 
-**_enjoy 🤩_**
+**enjoy 🤩**
