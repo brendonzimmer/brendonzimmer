@@ -4,6 +4,7 @@ i'm a student at the university of southern california studying economics, data 
 
 ### wips 💪🏼
 
+1. weekly planner
 1. spotify ⇔ apple music
 1. playlist/music statistics
 1. personal site
@@ -46,4 +47,4 @@ i'm a student at the university of southern california studying economics, data 
 - graphql
 - redux
 
-**_enjoy your visit 🤩_**
+**_enjoy 🤩_**
