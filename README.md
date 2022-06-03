@@ -39,6 +39,7 @@ i'm a student at the university of southern california studying economics, data 
 
 ### i'm interested in 👀
 
+- rust
 - postgresql
 - solidity
 - web3
