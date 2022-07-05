@@ -4,7 +4,7 @@ i'm a student at the university of southern california studying economics, data 
 
 ### wips 💪🏼
 
-1. usc class scheduler
+1. usc time
 1. age -- rust
 1. factor -- tests
 1. spotify ⇔ apple music
