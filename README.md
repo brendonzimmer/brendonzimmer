@@ -1,6 +1,6 @@
 # hello there 👋🏼
 
-i'm a student at the university of southern california studying economics, data science, computer science, and blockchain ✌🏼
+i'm a student at the university of southern california studying computer science and finance ✌🏼
 
 ### wips 💪🏼
 
