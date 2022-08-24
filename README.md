@@ -5,49 +5,47 @@ i'm a student at the university of southern california studying economics, data 
 ### wips 💪🏼
 
 1. usc time
-1. age -- rust
-1. factor -- tests
+1. rewrite 'age' in rust
 1. spotify ⇔ apple music
-1. playlist/music statistics
 1. personal site
-1. dot scripts
+1. rust testing for 'factor'
+1. playlist/music statistics
+1. dotfile scripts
 
 ### languages i know 🧠
 
 1. typescript ∧ (typescript ⇒ javascript)
 1. html ∧ css
+1. c++
 1. python 🐍
 1. español 🇪🇸
 
 ### i use a lot 🤓
 
-- git
+- typescript
 - react
 - next.js
 - node.js
 - tailwindcss
+- git
 
 ### i'm familiar with 😎
 
 - c++
 - mongodb
+- postgresql
 - vue
-- express
+- rust
 
 ### i'm currently learning more about 📚
 
 - c++
-- python ∧ dsci
+- google cloud
 
-### i'm interested in 👀
+### i'm interested in learning 👀
 
 - rust
-- postgresql
 - solidity
-- web3
-- swiftui
 - react native
-- graphql
-- redux
 
 **enjoy 🤩**
