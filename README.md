@@ -32,6 +32,7 @@ i'm a student at the university of southern california studying computer science
 ### i'm familiar with 😎
 
 - c++
+- docker
 - mongodb
 - postgresql
 - vue
