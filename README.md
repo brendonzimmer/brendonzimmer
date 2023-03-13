@@ -4,7 +4,7 @@ i'm a student at the university of southern california studying computer science
 
 ### wips 💪🏼
 
-1. usctime
+1. ofCourse @ USC
 1. spotify ⇔ apple music
 1. personal site
 1. playlist/music statistics
