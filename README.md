@@ -5,17 +5,20 @@ i'm a student at the university of southern california studying computer science
 ### wips 💪🏼
 
 1. ofCourse @ USC
-1. spotify ⇔ apple music
-1. personal site
-1. playlist/music statistics
-1. dotfile scripts
+2. status
+3. general number field sieve (gnfs) in rust
+4. ftov
+5. spotify ⇔ apple music
+6. personal site
+7. playlist/music statistics
+8. dotfile scripts
 
 ### languages i know 🧠
 
-1. typescript ∧ (typescript ⇒ javascript)
+1. typescript & javascript
 1. c++
 1. python 🐍
-1. html ∧ css
+1. html & css
 1. español 🇪🇸
 
 ### i use a lot 🤓
@@ -30,15 +33,14 @@ i'm a student at the university of southern california studying computer science
 ### i'm familiar with 😎
 
 - c++
-- docker
-- mongodb
-- postgresql
+- postgresql/mysql
 - rust
+- docker
 
 ### i'm currently learning more about 📚
 
-- c++
-- google cloud
+- rust
+- react server components
 
 ### i'm interested in learning 👀
 
