@@ -6,7 +6,7 @@ i'm a student at the university of southern california studying computer science
 
 1. ofCourse @ USC
 2. status
-3. general number field sieve (gnfs) in rust
+3. factoring algorithms
 4. ftov
 5. spotify ⇔ apple music
 6. personal site
