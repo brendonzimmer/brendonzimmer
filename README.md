@@ -1,17 +1,16 @@
 # hello there 👋🏼
 
-i'm a student at the university of southern california studying computer science and finance ✌🏼
+i'm a junior at the university of southern california studying computer science ✌🏼
 
 ### wips 💪🏼
 
 1. ofCourse @ USC
 2. status
-3. factoring algorithms
-4. ftov
-5. spotify ⇔ apple music
-6. personal site
-7. playlist/music statistics
-8. dotfile scripts
+3. ftov
+4. spotify ⇔ apple music
+5. personal site
+6. playlist/music statistics
+7. factoring algorithms
 
 ### languages i know 🧠
 
@@ -19,6 +18,7 @@ i'm a student at the university of southern california studying computer science
 1. c++
 1. python 🐍
 1. html & css
+1. rust
 1. español 🇪🇸
 
 ### i use a lot 🤓
@@ -28,24 +28,9 @@ i'm a student at the university of southern california studying computer science
 - next.js
 - node.js
 - tailwindcss
-- git
-
-### i'm familiar with 😎
-
-- c++
-- postgresql/mysql
-- rust
-- docker
-
-### i'm currently learning more about 📚
-
-- rust
-- react server components
 
 ### i'm interested in learning 👀
 
+- swift
 - rust
-- solidity
 - react native
-
-**enjoy 🤩**
