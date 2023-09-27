@@ -19,6 +19,7 @@ i'm a junior at the university of southern california studying computer science 
 1. python 🐍
 1. html & css
 1. rust
+1. go
 1. español 🇪🇸
 
 ### i use a lot 🤓
@@ -32,5 +33,4 @@ i'm a junior at the university of southern california studying computer science 
 ### i'm interested in learning 👀
 
 - swift
-- rust
 - react native
