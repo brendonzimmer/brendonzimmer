@@ -1,25 +1,26 @@
 # hello there 👋🏼
 
-i'm a junior at the university of southern california studying computer science ✌🏼
+i'm a senior at the university of southern california studying computer science ✌🏼
 
 ### wips 💪🏼
 
-1. ofCourse @ USC
-2. status
-3. ftov
-4. spotify ⇔ apple music
-5. personal site
-6. playlist/music statistics
-7. factoring algorithms
+1. sidenote
+2. ofCourse @ USC
+3. status
+4. ftov
+5. spotify ⇔ apple music
+6. personal site
+7. playlist/music statistics
 
 ### languages i know 🧠
 
 1. typescript & javascript
-1. c++
 1. python 🐍
-1. html & css
-1. rust
+2. c/c++
 1. go
+1. rust
+2. ocaml
+3. html & css
 1. español 🇪🇸
 
 ### i use a lot 🤓
